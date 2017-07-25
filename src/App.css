@@ -1,0 +1,22 @@
+.App{
+	text-align: center;
+	font-size: 35px;
+	margin-top: 20%;
+}
+
+.App-title{
+	font-size: 50px;
+}
+
+.Clock-hours,
+.Clock-minutes,
+.Clock-seconds,
+.Clock-days{
+	display: inline;
+	margin: 10px;
+}
+
+.Deadline-input{
+	font-size: 20px;
+	margin:5px;
+}

@@ -1,6 +1,7 @@
 {
   "name": "react-app",
   "version": "0.1.0",
+  "homepage": "https://Aj1402.github.io/countdown-clock",
   "private": true,
   "dependencies": {
     "gh-pages": "^1.0.0",
